@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Parmar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Narendra Parmar</h1>
 <h3 align="center">A passionate Computer Science student and AI/ML enthusiast from Gujarat, India</h3>
 
 <p align="center">
