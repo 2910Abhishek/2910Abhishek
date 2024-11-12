@@ -9,7 +9,7 @@
 - 💼 Former AI/ML Intern at **CLUMOSS**
 - 🌱 Former Data Science Intern at **Topia Lifesciences**
 - 🔭 Currently working on **Deep Learning** and **Computer Vision** projects
-- 👯 Looking to collaborate on **ML/AI Projects**
+- 👯 Looking to collaborate on **AI/ML Projects**
 
 ## 🏆 Achievements
 - 💻 Solved 400+ coding problems across platforms
