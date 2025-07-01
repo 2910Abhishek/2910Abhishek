@@ -20,8 +20,6 @@ class Abhishek:
         self.name = "Abhishek Parmar"
         self.role = "Data Science & AI Enthusiast"
         self.education = "B.Tech Computer Science @ CHARUSAT"
-        self.cgpa = "9.64/10.0"
-        self.graduation = "May 2026"
         self.location = "Vadodara, Gujarat, India"
         
     def current_focus(self):
